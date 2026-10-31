@@ -1,0 +1,529 @@
+{
+  "name": "OGARANYA WEBSITE",
+  "lastModified": "2026-10-30T10:39:03Z",
+  "thumbnailUrl": "https://s3-alpha.figma.com/thumbnails/a7cd211a-f998-48a2-a7b5-defba1cab659?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCTQAAMWLW%2F20261029%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261029T000000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bc514b8af7fd83358a345ebcd6865479be7d7324647c1c394a8cd0cf2034af27",
+  "version": "2416099715975528312",
+  "role": "viewer",
+  "editorType": "figma",
+  "linkAccess": "view",
+  "nodes": {
+    "25:1452": {
+      "document": {
+        "id": "25:1452",
+        "name": "Group 33",
+        "type": "GROUP",
+        "scrollBehavior": "SCROLLS",
+        "children": [
+          {
+            "id": "25:1453",
+            "name": "LANGUAGES",
+            "type": "TEXT",
+            "scrollBehavior": "SCROLLS",
+            "blendMode": "PASS_THROUGH",
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.3960784375667572,
+                  "g": 0.2235294133424759,
+                  "b": 0.09019608050584793,
+                  "a": 1.0
+                }
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1.0,
+            "strokeAlign": "OUTSIDE",
+            "absoluteBoundingBox": {
+              "x": 71.0,
+              "y": 12957.0,
+              "width": 72.0,
+              "height": 26.0
+            },
+            "absoluteRenderBounds": {
+              "x": 72.0199966430664,
+              "y": 12966.48046875,
+              "width": 69.56110382080078,
+              "height": 8.6630859375
+            },
+            "constraints": {
+              "vertical": "TOP",
+              "horizontal": "LEFT"
+            },
+            "characters": "LANGUAGES",
+            "characterStyleOverrides": [],
+            "styleOverrideTable": {},
+            "lineTypes": [
+              "NONE"
+            ],
+            "lineIndentations": [
+              0
+            ],
+            "style": {
+              "fontFamily": "TESTING TESTING",
+              "fontPostScriptName": "TESTINGTESTING-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 12.0,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0.0,
+              "lineHeightPx": 25.950822830200195,
+              "lineHeightPercent": 154.46917724609375,
+              "lineHeightPercentFontSize": 216.25685119628906,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "layoutVersion": 5,
+            "effects": [],
+            "interactions": [],
+            "complexStrokeProperties": {
+              "strokeType": "BASIC"
+            }
+          },
+          {
+            "id": "25:1454",
+            "name": "OGARANYA",
+            "type": "TEXT",
+            "scrollBehavior": "SCROLLS",
+            "blendMode": "PASS_THROUGH",
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.3960784375667572,
+                  "g": 0.2235294133424759,
+                  "b": 0.09019608050584793,
+                  "a": 1.0
+                }
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1.0,
+            "strokeAlign": "OUTSIDE",
+            "absoluteBoundingBox": {
+              "x": 605.0,
+              "y": 12957.0,
+              "width": 70.0,
+              "height": 26.0
+            },
+            "absoluteRenderBounds": {
+              "x": 605.8773193359375,
+              "y": 12966.32421875,
+              "width": 68.43048095703125,
+              "height": 9.01171875
+            },
+            "constraints": {
+              "vertical": "TOP",
+              "horizontal": "CENTER"
+            },
+            "characters": "OGARANYA",
+            "characterStyleOverrides": [],
+            "styleOverrideTable": {},
+            "lineTypes": [
+              "NONE"
+            ],
+            "lineIndentations": [
+              0
+            ],
+            "style": {
+              "fontFamily": "TESTING TESTING",
+              "fontPostScriptName": "TESTINGTESTING-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 12.0,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0.0,
+              "lineHeightPx": 25.950822830200195,
+              "lineHeightPercent": 154.46917724609375,
+              "lineHeightPercentFontSize": 216.25685119628906,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "layoutVersion": 5,
+            "effects": [],
+            "interactions": [],
+            "complexStrokeProperties": {
+              "strokeType": "BASIC"
+            }
+          },
+          {
+            "id": "25:1455",
+            "name": "TYPEFACE",
+            "type": "TEXT",
+            "scrollBehavior": "SCROLLS",
+            "blendMode": "PASS_THROUGH",
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.3960784375667572,
+                  "g": 0.2235294133424759,
+                  "b": 0.09019608050584793,
+                  "a": 1.0
+                }
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1.0,
+            "strokeAlign": "OUTSIDE",
+            "absoluteBoundingBox": {
+              "x": 1147.0,
+              "y": 12957.0,
+              "width": 62.0,
+              "height": 26.0
+            },
+            "absoluteRenderBounds": {
+              "x": 1148.04736328125,
+              "y": 12966.4677734375,
+              "width": 59.90673828125,
+              "height": 8.6279296875
+            },
+            "constraints": {
+              "vertical": "TOP",
+              "horizontal": "LEFT"
+            },
+            "characters": "TYPEFACE",
+            "characterStyleOverrides": [],
+            "styleOverrideTable": {},
+            "lineTypes": [
+              "NONE"
+            ],
+            "lineIndentations": [
+              0
+            ],
+            "style": {
+              "fontFamily": "TESTING TESTING",
+              "fontPostScriptName": "TESTINGTESTING-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 12.0,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0.0,
+              "lineHeightPx": 25.950822830200195,
+              "lineHeightPercent": 154.46917724609375,
+              "lineHeightPercentFontSize": 216.25685119628906,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "layoutVersion": 5,
+            "effects": [],
+            "interactions": [],
+            "complexStrokeProperties": {
+              "strokeType": "BASIC"
+            }
+          }
+        ],
+        "blendMode": "PASS_THROUGH",
+        "clipsContent": false,
+        "background": [],
+        "fills": [],
+        "strokes": [],
+        "rectangleCornerRadii": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "cornerSmoothing": 0.0,
+        "strokeWeight": 1.0,
+        "strokeAlign": "INSIDE",
+        "backgroundColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "absoluteBoundingBox": {
+          "x": 71.0,
+          "y": 12957.0,
+          "width": 1138.0,
+          "height": 26.0
+        },
+        "absoluteRenderBounds": {
+          "x": 71.0,
+          "y": 12957.0,
+          "width": 1138.0,
+          "height": 26.0
+        },
+        "constraints": {
+          "vertical": "TOP",
+          "horizontal": "CENTER"
+        },
+        "effects": [],
+        "interactions": [],
+        "complexStrokeProperties": {
+          "strokeType": "BASIC"
+        }
+      },
+      "components": {},
+      "componentSets": {},
+      "schemaVersion": 0,
+      "styles": {}
+    },
+    "71:3184": {
+      "document": {
+        "id": "71:3184",
+        "name": "Group 33",
+        "type": "GROUP",
+        "scrollBehavior": "SCROLLS",
+        "children": [
+          {
+            "id": "71:3185",
+            "name": "LANGUAGES",
+            "type": "TEXT",
+            "scrollBehavior": "SCROLLS",
+            "blendMode": "PASS_THROUGH",
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.3960784375667572,
+                  "g": 0.2235294133424759,
+                  "b": 0.09019608050584793,
+                  "a": 1.0
+                }
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1.0,
+            "strokeAlign": "OUTSIDE",
+            "absoluteBoundingBox": {
+              "x": 12306.0,
+              "y": 9485.0,
+              "width": 60.0,
+              "height": 22.0
+            },
+            "absoluteRenderBounds": {
+              "x": 12306.849609375,
+              "y": 9492.900390625,
+              "width": 58.0654296875,
+              "height": 7.2197265625
+            },
+            "constraints": {
+              "vertical": "TOP",
+              "horizontal": "LEFT"
+            },
+            "characters": "LANGUAGES",
+            "characterStyleOverrides": [],
+            "styleOverrideTable": {},
+            "lineTypes": [
+              "NONE"
+            ],
+            "lineIndentations": [
+              0
+            ],
+            "style": {
+              "fontFamily": "OGARANYA",
+              "fontPostScriptName": "OGARANYA-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 10.0,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0.0,
+              "lineHeightPx": 21.625686645507812,
+              "lineHeightPercent": 154.46917724609375,
+              "lineHeightPercentFontSize": 216.25685119628906,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "layoutVersion": 5,
+            "effects": [],
+            "interactions": [],
+            "complexStrokeProperties": {
+              "strokeType": "BASIC"
+            }
+          },
+          {
+            "id": "71:3186",
+            "name": "OGARANYA",
+            "type": "TEXT",
+            "scrollBehavior": "SCROLLS",
+            "blendMode": "PASS_THROUGH",
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.3960784375667572,
+                  "g": 0.2235294133424759,
+                  "b": 0.09019608050584793,
+                  "a": 1.0
+                }
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1.0,
+            "strokeAlign": "OUTSIDE",
+            "absoluteBoundingBox": {
+              "x": 12463.0,
+              "y": 9485.0,
+              "width": 58.0,
+              "height": 22.0
+            },
+            "absoluteRenderBounds": {
+              "x": 12463.564453125,
+              "y": 9492.8896484375,
+              "width": 57.025390625,
+              "height": 7.2099609375
+            },
+            "constraints": {
+              "vertical": "TOP",
+              "horizontal": "CENTER"
+            },
+            "characters": "OGARANYA",
+            "characterStyleOverrides": [],
+            "styleOverrideTable": {},
+            "lineTypes": [
+              "NONE"
+            ],
+            "lineIndentations": [
+              0
+            ],
+            "style": {
+              "fontFamily": "OGARANYA",
+              "fontPostScriptName": "OGARANYA-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 10.0,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0.0,
+              "lineHeightPx": 21.625686645507812,
+              "lineHeightPercent": 154.46917724609375,
+              "lineHeightPercentFontSize": 216.25685119628906,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "layoutVersion": 5,
+            "effects": [],
+            "interactions": [],
+            "complexStrokeProperties": {
+              "strokeType": "BASIC"
+            }
+          },
+          {
+            "id": "71:3187",
+            "name": "TYPEFACE",
+            "type": "TEXT",
+            "scrollBehavior": "SCROLLS",
+            "blendMode": "PASS_THROUGH",
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.3960784375667572,
+                  "g": 0.2235294133424759,
+                  "b": 0.09019608050584793,
+                  "a": 1.0
+                }
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1.0,
+            "strokeAlign": "OUTSIDE",
+            "absoluteBoundingBox": {
+              "x": 12611.0,
+              "y": 9485.0,
+              "width": 52.0,
+              "height": 22.0
+            },
+            "absoluteRenderBounds": {
+              "x": 12612.0390625,
+              "y": 9492.8896484375,
+              "width": 49.9228515625,
+              "height": 7.1904296875
+            },
+            "constraints": {
+              "vertical": "TOP",
+              "horizontal": "LEFT"
+            },
+            "characters": "TYPEFACE",
+            "characterStyleOverrides": [],
+            "styleOverrideTable": {},
+            "lineTypes": [
+              "NONE"
+            ],
+            "lineIndentations": [
+              0
+            ],
+            "style": {
+              "fontFamily": "OGARANYA",
+              "fontPostScriptName": "OGARANYA-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 10.0,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0.0,
+              "lineHeightPx": 21.625686645507812,
+              "lineHeightPercent": 154.46917724609375,
+              "lineHeightPercentFontSize": 216.25685119628906,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "layoutVersion": 5,
+            "effects": [],
+            "interactions": [],
+            "complexStrokeProperties": {
+              "strokeType": "BASIC"
+            }
+          }
+        ],
+        "blendMode": "PASS_THROUGH",
+        "clipsContent": false,
+        "background": [],
+        "fills": [],
+        "strokes": [],
+        "rectangleCornerRadii": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "cornerSmoothing": 0.0,
+        "strokeWeight": 1.0,
+        "strokeAlign": "INSIDE",
+        "backgroundColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "absoluteBoundingBox": {
+          "x": 12306.0,
+          "y": 9485.0,
+          "width": 357.0,
+          "height": 22.0
+        },
+        "absoluteRenderBounds": {
+          "x": 12306.0,
+          "y": 9485.0,
+          "width": 357.0,
+          "height": 22.0
+        },
+        "constraints": {
+          "vertical": "BOTTOM",
+          "horizontal": "CENTER"
+        },
+        "effects": [],
+        "interactions": [],
+        "complexStrokeProperties": {
+          "strokeType": "BASIC"
+        }
+      },
+      "components": {},
+      "componentSets": {},
+      "schemaVersion": 0,
+      "styles": {}
+    }
+  }
+}

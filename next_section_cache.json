@@ -1,0 +1,1490 @@
+{
+  "name": "OGARANYA WEBSITE",
+  "lastModified": "2026-10-30T10:39:03Z",
+  "thumbnailUrl": "https://s3-alpha.figma.com/thumbnails/a7cd211a-f998-48a2-a7b5-defba1cab659?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCTQAAMWLW%2F20261029%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261029T000000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bc514b8af7fd83358a345ebcd6865479be7d7324647c1c394a8cd0cf2034af27",
+  "version": "2416099715975528312",
+  "role": "viewer",
+  "editorType": "figma",
+  "linkAccess": "view",
+  "nodes": {
+    "11:163": {
+      "document": {
+        "id": "11:163",
+        "name": "MacBook Air - 3",
+        "type": "FRAME",
+        "scrollBehavior": "SCROLLS",
+        "children": [
+          {
+            "id": "11:176",
+            "name": "A high-contrast African display serif",
+            "visible": false,
+            "type": "TEXT",
+            "scrollBehavior": "SCROLLS",
+            "blendMode": "PASS_THROUGH",
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 1.0,
+                  "g": 0.9378567934036255,
+                  "b": 0.6271409392356873,
+                  "a": 1.0
+                }
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1.0,
+            "strokeAlign": "OUTSIDE",
+            "absoluteBoundingBox": {
+              "x": 200.0,
+              "y": 2690.0,
+              "width": 878.0,
+              "height": 59.0
+            },
+            "absoluteRenderBounds": null,
+            "constraints": {
+              "vertical": "TOP",
+              "horizontal": "CENTER"
+            },
+            "characters": "A high-contrast African display serif",
+            "characterStyleOverrides": [],
+            "styleOverrideTable": {},
+            "lineTypes": [
+              "NONE"
+            ],
+            "lineIndentations": [
+              0
+            ],
+            "style": {
+              "fontFamily": "OGARANYA",
+              "fontPostScriptName": "OGARANYA-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "textCase": "UPPER",
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 42.0,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0.0,
+              "lineHeightPx": 58.79999923706055,
+              "lineHeightPercent": 100.0,
+              "lineHeightUnit": "INTRINSIC_%"
+            },
+            "layoutVersion": 5,
+            "effects": [],
+            "interactions": [],
+            "complexStrokeProperties": {
+              "strokeType": "BASIC"
+            }
+          },
+          {
+            "id": "13:258",
+            "name": "Group 4",
+            "type": "GROUP",
+            "scrollBehavior": "SCROLLS",
+            "children": [
+              {
+                "id": "13:247",
+                "name": "Frame 13",
+                "type": "FRAME",
+                "scrollBehavior": "SCROLLS",
+                "children": [
+                  {
+                    "id": "13:248",
+                    "name": "I",
+                    "type": "TEXT",
+                    "scrollBehavior": "SCROLLS",
+                    "blendMode": "PASS_THROUGH",
+                    "fills": [
+                      {
+                        "blendMode": "NORMAL",
+                        "type": "SOLID",
+                        "color": {
+                          "r": 0.12941177189350128,
+                          "g": 0.09019608050584793,
+                          "b": 0.06666667014360428,
+                          "a": 1.0
+                        }
+                      }
+                    ],
+                    "strokes": [],
+                    "strokeWeight": 1.0,
+                    "strokeAlign": "OUTSIDE",
+                    "absoluteBoundingBox": {
+                      "x": 279.0,
+                      "y": 2023.0,
+                      "width": 233.0,
+                      "height": 1730.0
+                    },
+                    "absoluteRenderBounds": {
+                      "x": 347.484375,
+                      "y": 2648.0,
+                      "width": 96.0,
+                      "height": 412.0
+                    },
+                    "constraints": {
+                      "vertical": "TOP",
+                      "horizontal": "CENTER"
+                    },
+                    "characters": "I",
+                    "characterStyleOverrides": [],
+                    "styleOverrideTable": {},
+                    "lineTypes": [
+                      "NONE"
+                    ],
+                    "lineIndentations": [
+                      0
+                    ],
+                    "style": {
+                      "fontFamily": "OGARANYA",
+                      "fontPostScriptName": "OGARANYA-Regular",
+                      "fontStyle": "Regular",
+                      "fontWeight": 400,
+                      "textAutoResize": "WIDTH_AND_HEIGHT",
+                      "fontSize": 800.0,
+                      "textAlignHorizontal": "CENTER",
+                      "textAlignVertical": "TOP",
+                      "letterSpacing": 0.0,
+                      "lineHeightPx": 1730.0548095703125,
+                      "lineHeightPercent": 154.46917724609375,
+                      "lineHeightPercentFontSize": 216.25685119628906,
+                      "lineHeightUnit": "FONT_SIZE_%"
+                    },
+                    "layoutVersion": 5,
+                    "effects": [],
+                    "interactions": [],
+                    "complexStrokeProperties": {
+                      "strokeType": "BASIC"
+                    }
+                  },
+                  {
+                    "id": "13:249",
+                    "name": "?",
+                    "visible": false,
+                    "type": "TEXT",
+                    "scrollBehavior": "SCROLLS",
+                    "blendMode": "PASS_THROUGH",
+                    "fills": [
+                      {
+                        "blendMode": "NORMAL",
+                        "type": "SOLID",
+                        "color": {
+                          "r": 0.12941177189350128,
+                          "g": 0.09019608050584793,
+                          "b": 0.06666667014360428,
+                          "a": 1.0
+                        }
+                      }
+                    ],
+                    "strokes": [],
+                    "strokeWeight": 1.0,
+                    "strokeAlign": "OUTSIDE",
+                    "absoluteBoundingBox": {
+                      "x": 206.0,
+                      "y": 2023.0,
+                      "width": 379.0,
+                      "height": 1730.0
+                    },
+                    "absoluteRenderBounds": null,
+                    "constraints": {
+                      "vertical": "TOP",
+                      "horizontal": "CENTER"
+                    },
+                    "characters": "?",
+                    "characterStyleOverrides": [],
+                    "styleOverrideTable": {},
+                    "lineTypes": [
+                      "NONE"
+                    ],
+                    "lineIndentations": [
+                      0
+                    ],
+                    "style": {
+                      "fontFamily": "OGARANYA",
+                      "fontPostScriptName": "OGARANYA-Regular",
+                      "fontStyle": "Regular",
+                      "fontWeight": 400,
+                      "textAutoResize": "WIDTH_AND_HEIGHT",
+                      "fontSize": 800.0,
+                      "textAlignHorizontal": "CENTER",
+                      "textAlignVertical": "TOP",
+                      "letterSpacing": 0.0,
+                      "lineHeightPx": 1730.0548095703125,
+                      "lineHeightPercent": 154.46917724609375,
+                      "lineHeightPercentFontSize": 216.25685119628906,
+                      "lineHeightUnit": "FONT_SIZE_%"
+                    },
+                    "layoutVersion": 5,
+                    "effects": [],
+                    "interactions": [],
+                    "complexStrokeProperties": {
+                      "strokeType": "BASIC"
+                    }
+                  },
+                  {
+                    "id": "13:250",
+                    "name": "O",
+                    "visible": false,
+                    "type": "TEXT",
+                    "scrollBehavior": "SCROLLS",
+                    "blendMode": "PASS_THROUGH",
+                    "fills": [
+                      {
+                        "blendMode": "NORMAL",
+                        "type": "SOLID",
+                        "color": {
+                          "r": 0.12941177189350128,
+                          "g": 0.09019608050584793,
+                          "b": 0.06666667014360428,
+                          "a": 1.0
+                        }
+                      }
+                    ],
+                    "strokes": [],
+                    "strokeWeight": 1.0,
+                    "strokeAlign": "OUTSIDE",
+                    "absoluteBoundingBox": {
+                      "x": 67.0,
+                      "y": 2023.0,
+                      "width": 657.0,
+                      "height": 1730.0
+                    },
+                    "absoluteRenderBounds": null,
+                    "constraints": {
+                      "vertical": "TOP",
+                      "horizontal": "CENTER"
+                    },
+                    "characters": "O",
+                    "characterStyleOverrides": [],
+                    "styleOverrideTable": {},
+                    "lineTypes": [
+                      "NONE"
+                    ],
+                    "lineIndentations": [
+                      0
+                    ],
+                    "style": {
+                      "fontFamily": "OGARANYA",
+                      "fontPostScriptName": "OGARANYA-Regular",
+                      "fontStyle": "Regular",
+                      "fontWeight": 400,
+                      "textAutoResize": "WIDTH_AND_HEIGHT",
+                      "fontSize": 800.0,
+                      "textAlignHorizontal": "CENTER",
+                      "textAlignVertical": "TOP",
+                      "letterSpacing": 0.0,
+                      "lineHeightPx": 1730.0548095703125,
+                      "lineHeightPercent": 154.46917724609375,
+                      "lineHeightPercentFontSize": 216.25685119628906,
+                      "lineHeightUnit": "FONT_SIZE_%"
+                    },
+                    "layoutVersion": 5,
+                    "effects": [],
+                    "interactions": [],
+                    "complexStrokeProperties": {
+                      "strokeType": "BASIC"
+                    }
+                  },
+                  {
+                    "id": "13:251",
+                    "name": "ij",
+                    "visible": false,
+                    "type": "TEXT",
+                    "scrollBehavior": "SCROLLS",
+                    "blendMode": "PASS_THROUGH",
+                    "fills": [
+                      {
+                        "blendMode": "NORMAL",
+                        "type": "SOLID",
+                        "color": {
+                          "r": 0.12941177189350128,
+                          "g": 0.09019608050584793,
+                          "b": 0.06666667014360428,
+                          "a": 1.0
+                        }
+                      }
+                    ],
+                    "strokes": [],
+                    "strokeWeight": 1.0,
+                    "strokeAlign": "OUTSIDE",
+                    "absoluteBoundingBox": {
+                      "x": 220.0,
+                      "y": 1664.0,
+                      "width": 350.0,
+                      "height": 1730.0
+                    },
+                    "absoluteRenderBounds": null,
+                    "constraints": {
+                      "vertical": "TOP",
+                      "horizontal": "CENTER"
+                    },
+                    "characters": "ij",
+                    "characterStyleOverrides": [],
+                    "styleOverrideTable": {},
+                    "lineTypes": [
+                      "NONE"
+                    ],
+                    "lineIndentations": [
+                      0
+                    ],
+                    "style": {
+                      "fontFamily": "OGARANYA",
+                      "fontPostScriptName": "OGARANYA-Regular",
+                      "fontStyle": "Regular",
+                      "fontWeight": 400,
+                      "textAutoResize": "WIDTH_AND_HEIGHT",
+                      "fontSize": 800.0,
+                      "textAlignHorizontal": "CENTER",
+                      "textAlignVertical": "TOP",
+                      "letterSpacing": 0.0,
+                      "lineHeightPx": 1730.0548095703125,
+                      "lineHeightPercent": 154.46917724609375,
+                      "lineHeightPercentFontSize": 216.25685119628906,
+                      "lineHeightUnit": "FONT_SIZE_%"
+                    },
+                    "layoutVersion": 5,
+                    "effects": [],
+                    "interactions": [],
+                    "complexStrokeProperties": {
+                      "strokeType": "BASIC"
+                    }
+                  }
+                ],
+                "blendMode": "PASS_THROUGH",
+                "clipsContent": true,
+                "background": [
+                  {
+                    "blendMode": "NORMAL",
+                    "type": "SOLID",
+                    "color": {
+                      "r": 1.0,
+                      "g": 0.9378567934036255,
+                      "b": 0.6271409392356873,
+                      "a": 1.0
+                    }
+                  }
+                ],
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "type": "SOLID",
+                    "color": {
+                      "r": 1.0,
+                      "g": 0.9378567934036255,
+                      "b": 0.6271409392356873,
+                      "a": 1.0
+                    }
+                  }
+                ],
+                "strokes": [],
+                "strokeWeight": 1.0,
+                "strokeAlign": "INSIDE",
+                "backgroundColor": {
+                  "r": 1.0,
+                  "g": 0.9378567934036255,
+                  "b": 0.6271409392356873,
+                  "a": 1.0
+                },
+                "absoluteBoundingBox": {
+                  "x": 150.0,
+                  "y": 2570.0,
+                  "width": 490.0,
+                  "height": 490.0
+                },
+                "absoluteRenderBounds": {
+                  "x": 150.0,
+                  "y": 2570.0,
+                  "width": 490.0,
+                  "height": 490.0
+                },
+                "constraints": {
+                  "vertical": "TOP",
+                  "horizontal": "LEFT"
+                },
+                "effects": [],
+                "interactions": [],
+                "complexStrokeProperties": {
+                  "strokeType": "BASIC"
+                }
+              },
+              {
+                "id": "13:252",
+                "name": "Frame 14",
+                "type": "FRAME",
+                "scrollBehavior": "SCROLLS",
+                "children": [
+                  {
+                    "id": "13:253",
+                    "name": "Gemini_Generated_Image_shaj1ishaj1ishaj 1",
+                    "visible": false,
+                    "type": "RECTANGLE",
+                    "scrollBehavior": "SCROLLS",
+                    "rotation": -3.1415925661670165,
+                    "blendMode": "PASS_THROUGH",
+                    "fills": [
+                      {
+                        "blendMode": "NORMAL",
+                        "type": "IMAGE",
+                        "scaleMode": "STRETCH",
+                        "imageRef": "a192f2f0e7a3d602f19894f01e1fac93d423e048",
+                        "imageTransform": [
+                          [
+                            0.881294846534729,
+                            0.0,
+                            0.05215831473469734
+                          ],
+                          [
+                            1.8999306272299165e-23,
+                            0.5979190468788147,
+                            0.35538139939308167
+                          ]
+                        ]
+                      }
+                    ],
+                    "strokes": [],
+                    "strokeWeight": 1.0,
+                    "strokeAlign": "INSIDE",
+                    "absoluteBoundingBox": {
+                      "x": 639.9999694824219,
+                      "y": 2568.999987680415,
+                      "width": 490.00007352958164,
+                      "height": 492.00001231958504
+                    },
+                    "absoluteRenderBounds": null,
+                    "preserveRatio": true,
+                    "targetAspectRatio": {
+                      "x": 490.0000305175781,
+                      "y": 491.9999694824219
+                    },
+                    "constraints": {
+                      "vertical": "TOP",
+                      "horizontal": "LEFT"
+                    },
+                    "effects": [],
+                    "interactions": [],
+                    "complexStrokeProperties": {
+                      "strokeType": "BASIC"
+                    }
+                  },
+                  {
+                    "id": "13:254",
+                    "name": "Gemini_Generated_Image_rqqj93rqqj93rqqj 4",
+                    "visible": false,
+                    "type": "RECTANGLE",
+                    "scrollBehavior": "SCROLLS",
+                    "rotation": -0.007067261895963249,
+                    "blendMode": "PASS_THROUGH",
+                    "fills": [
+                      {
+                        "blendMode": "NORMAL",
+                        "type": "IMAGE",
+                        "scaleMode": "STRETCH",
+                        "imageRef": "0a95d7045f09cc8a95102ae2c8996ad553de0840",
+                        "imageTransform": [
+                          [
+                            0.3893229067325592,
+                            0.0,
+                            0.3372395932674408
+                          ],
+                          [
+                            0.0,
+                            0.9780219793319702,
+                            0.021978022530674934
+                          ]
+                        ]
+                      }
+                    ],
+                    "strokes": [],
+                    "strokeWeight": 1.0,
+                    "strokeAlign": "INSIDE",
+                    "absoluteBoundingBox": {
+                      "x": 759.2425738543718,
+                      "y": 2523.090631115505,
+                      "width": 270.0346102638084,
+                      "height": 1170.641790759495
+                    },
+                    "absoluteRenderBounds": null,
+                    "preserveRatio": true,
+                    "targetAspectRatio": {
+                      "x": 299.0,
+                      "y": 1335.0
+                    },
+                    "constraints": {
+                      "vertical": "TOP",
+                      "horizontal": "LEFT"
+                    },
+                    "effects": [],
+                    "interactions": [],
+                    "complexStrokeProperties": {
+                      "strokeType": "BASIC"
+                    }
+                  },
+                  {
+                    "id": "13:255",
+                    "name": "Gemini_Generated_Image_picxjppicxjppicx 2",
+                    "visible": false,
+                    "type": "RECTANGLE",
+                    "scrollBehavior": "SCROLLS",
+                    "blendMode": "PASS_THROUGH",
+                    "fills": [
+                      {
+                        "blendMode": "NORMAL",
+                        "type": "IMAGE",
+                        "scaleMode": "FILL",
+                        "imageRef": "04c16e285c3264175df19c68c97dff6099751401"
+                      }
+                    ],
+                    "strokes": [],
+                    "strokeWeight": 1.0,
+                    "strokeAlign": "INSIDE",
+                    "absoluteBoundingBox": {
+                      "x": 559.0,
+                      "y": 2601.0,
+                      "width": 651.0,
+                      "height": 602.0
+                    },
+                    "absoluteRenderBounds": null,
+                    "preserveRatio": true,
+                    "targetAspectRatio": {
+                      "x": 1073.0,
+                      "y": 992.0
+                    },
+                    "constraints": {
+                      "vertical": "TOP",
+                      "horizontal": "LEFT"
+                    },
+                    "effects": [],
+                    "interactions": [],
+                    "complexStrokeProperties": {
+                      "strokeType": "BASIC"
+                    }
+                  },
+                  {
+                    "id": "13:256",
+                    "name": "Gemini_Generated_Image_hp2ochp2ochp2och 1",
+                    "visible": false,
+                    "type": "RECTANGLE",
+                    "scrollBehavior": "SCROLLS",
+                    "blendMode": "PASS_THROUGH",
+                    "fills": [
+                      {
+                        "blendMode": "NORMAL",
+                        "type": "IMAGE",
+                        "scaleMode": "FILL",
+                        "imageRef": "27e29c61e2d203c3e5ee7e04530da625c187cd11"
+                      }
+                    ],
+                    "strokes": [],
+                    "strokeWeight": 1.0,
+                    "strokeAlign": "INSIDE",
+                    "absoluteBoundingBox": {
+                      "x": 586.0,
+                      "y": 2299.0,
+                      "width": 598.0,
+                      "height": 659.0
+                    },
+                    "absoluteRenderBounds": null,
+                    "preserveRatio": true,
+                    "targetAspectRatio": {
+                      "x": 976.0,
+                      "y": 1076.0
+                    },
+                    "constraints": {
+                      "vertical": "TOP",
+                      "horizontal": "CENTER"
+                    },
+                    "effects": [],
+                    "interactions": [],
+                    "complexStrokeProperties": {
+                      "strokeType": "BASIC"
+                    }
+                  },
+                  {
+                    "id": "32:1609",
+                    "name": "Gemini_Generated_Image_sbm4qdsbm4qdsbm4 1",
+                    "type": "RECTANGLE",
+                    "scrollBehavior": "SCROLLS",
+                    "rotation": -0.9724276674831736,
+                    "blendMode": "PASS_THROUGH",
+                    "fills": [
+                      {
+                        "blendMode": "NORMAL",
+                        "type": "IMAGE",
+                        "scaleMode": "FILL",
+                        "imageRef": "42ded32e97bfe2ec6a73d858f70a94bfe4cbbc97"
+                      }
+                    ],
+                    "strokes": [],
+                    "strokeWeight": 1.0,
+                    "strokeAlign": "INSIDE",
+                    "absoluteBoundingBox": {
+                      "x": 517.4763793945312,
+                      "y": 2521.0736477061873,
+                      "width": 713.7198063582855,
+                      "height": 753.4210921234171
+                    },
+                    "absoluteRenderBounds": {
+                      "x": 640.0,
+                      "y": 2570.0,
+                      "width": 490.0,
+                      "height": 490.0
+                    },
+                    "preserveRatio": true,
+                    "targetAspectRatio": {
+                      "x": 1195.0,
+                      "y": 896.0
+                    },
+                    "constraints": {
+                      "vertical": "TOP",
+                      "horizontal": "LEFT"
+                    },
+                    "effects": [],
+                    "interactions": [],
+                    "complexStrokeProperties": {
+                      "strokeType": "BASIC"
+                    }
+                  }
+                ],
+                "blendMode": "PASS_THROUGH",
+                "clipsContent": true,
+                "background": [
+                  {
+                    "blendMode": "NORMAL",
+                    "type": "SOLID",
+                    "color": {
+                      "r": 0.12941177189350128,
+                      "g": 0.09019608050584793,
+                      "b": 0.06666667014360428,
+                      "a": 1.0
+                    }
+                  }
+                ],
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "type": "SOLID",
+                    "color": {
+                      "r": 0.12941177189350128,
+                      "g": 0.09019608050584793,
+                      "b": 0.06666667014360428,
+                      "a": 1.0
+                    }
+                  }
+                ],
+                "strokes": [],
+                "strokeWeight": 1.0,
+                "strokeAlign": "INSIDE",
+                "backgroundColor": {
+                  "r": 0.12941177189350128,
+                  "g": 0.09019608050584793,
+                  "b": 0.06666667014360428,
+                  "a": 1.0
+                },
+                "absoluteBoundingBox": {
+                  "x": 640.0,
+                  "y": 2570.0,
+                  "width": 490.0,
+                  "height": 490.0
+                },
+                "absoluteRenderBounds": {
+                  "x": 640.0,
+                  "y": 2570.0,
+                  "width": 490.0,
+                  "height": 490.0
+                },
+                "constraints": {
+                  "vertical": "TOP",
+                  "horizontal": "LEFT"
+                },
+                "effects": [],
+                "interactions": [],
+                "complexStrokeProperties": {
+                  "strokeType": "BASIC"
+                }
+              }
+            ],
+            "blendMode": "PASS_THROUGH",
+            "clipsContent": false,
+            "background": [],
+            "fills": [],
+            "strokes": [],
+            "strokeWeight": 1.0,
+            "strokeAlign": "INSIDE",
+            "backgroundColor": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "absoluteBoundingBox": {
+              "x": 150.0,
+              "y": 2570.0,
+              "width": 980.0,
+              "height": 490.0
+            },
+            "absoluteRenderBounds": {
+              "x": 150.0,
+              "y": 2570.0,
+              "width": 980.0,
+              "height": 490.0
+            },
+            "constraints": {
+              "vertical": "CENTER",
+              "horizontal": "CENTER"
+            },
+            "effects": [],
+            "interactions": [],
+            "complexStrokeProperties": {
+              "strokeType": "BASIC"
+            }
+          },
+          {
+            "id": "13:259",
+            "name": "AFRICAN WEAPONS",
+            "type": "TEXT",
+            "scrollBehavior": "SCROLLS",
+            "blendMode": "PASS_THROUGH",
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 1.0,
+                  "g": 0.9378567934036255,
+                  "b": 0.6271409392356873,
+                  "a": 1.0
+                }
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1.0,
+            "strokeAlign": "OUTSIDE",
+            "absoluteBoundingBox": {
+              "x": 583.0,
+              "y": 2468.0,
+              "width": 115.0,
+              "height": 26.0
+            },
+            "absoluteRenderBounds": {
+              "x": 583.4805297851562,
+              "y": 2477.468017578125,
+              "width": 113.2626953125,
+              "height": 8.652099609375
+            },
+            "constraints": {
+              "vertical": "TOP",
+              "horizontal": "CENTER"
+            },
+            "characters": "AFRICAN WEAPONS",
+            "characterStyleOverrides": [],
+            "styleOverrideTable": {},
+            "lineTypes": [
+              "NONE"
+            ],
+            "lineIndentations": [
+              0
+            ],
+            "style": {
+              "fontFamily": "TESTING TESTING",
+              "fontPostScriptName": "TESTINGTESTING-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 12.0,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0.0,
+              "lineHeightPx": 25.950822830200195,
+              "lineHeightPercent": 154.46917724609375,
+              "lineHeightPercentFontSize": 216.25685119628906,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "layoutVersion": 5,
+            "effects": [],
+            "interactions": [],
+            "complexStrokeProperties": {
+              "strokeType": "BASIC"
+            }
+          },
+          {
+            "id": "13:260",
+            "name": "OGARANYA",
+            "type": "TEXT",
+            "scrollBehavior": "SCROLLS",
+            "blendMode": "PASS_THROUGH",
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 1.0,
+                  "g": 0.9378567934036255,
+                  "b": 0.6271409392356873,
+                  "a": 1.0
+                }
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1.0,
+            "strokeAlign": "OUTSIDE",
+            "absoluteBoundingBox": {
+              "x": 150.0,
+              "y": 2468.0,
+              "width": 70.0,
+              "height": 26.0
+            },
+            "absoluteRenderBounds": {
+              "x": 150.87734985351562,
+              "y": 2477.468017578125,
+              "width": 68.43046569824219,
+              "height": 8.652099609375
+            },
+            "constraints": {
+              "vertical": "TOP",
+              "horizontal": "CENTER"
+            },
+            "characters": "OGARANYA",
+            "characterStyleOverrides": [],
+            "styleOverrideTable": {},
+            "lineTypes": [
+              "NONE"
+            ],
+            "lineIndentations": [
+              0
+            ],
+            "style": {
+              "fontFamily": "TESTING TESTING",
+              "fontPostScriptName": "TESTINGTESTING-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 12.0,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0.0,
+              "lineHeightPx": 25.950822830200195,
+              "lineHeightPercent": 154.46917724609375,
+              "lineHeightPercentFontSize": 216.25685119628906,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "layoutVersion": 5,
+            "effects": [],
+            "interactions": [],
+            "complexStrokeProperties": {
+              "strokeType": "BASIC"
+            }
+          },
+          {
+            "id": "13:261",
+            "name": "TYPE DESIGN",
+            "type": "TEXT",
+            "scrollBehavior": "SCROLLS",
+            "blendMode": "PASS_THROUGH",
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 1.0,
+                  "g": 0.9378567934036255,
+                  "b": 0.6271409392356873,
+                  "a": 1.0
+                }
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1.0,
+            "strokeAlign": "OUTSIDE",
+            "absoluteBoundingBox": {
+              "x": 1053.0,
+              "y": 2468.0,
+              "width": 77.0,
+              "height": 26.0
+            },
+            "absoluteRenderBounds": {
+              "x": 1054.50439453125,
+              "y": 2477.47998046875,
+              "width": 73.9935302734375,
+              "height": 8.64013671875
+            },
+            "constraints": {
+              "vertical": "TOP",
+              "horizontal": "LEFT"
+            },
+            "characters": "TYPE DESIGN",
+            "characterStyleOverrides": [],
+            "styleOverrideTable": {},
+            "lineTypes": [
+              "NONE"
+            ],
+            "lineIndentations": [
+              0
+            ],
+            "style": {
+              "fontFamily": "TESTING TESTING",
+              "fontPostScriptName": "TESTINGTESTING-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 12.0,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0.0,
+              "lineHeightPx": 25.950822830200195,
+              "lineHeightPercent": 154.46917724609375,
+              "lineHeightPercentFontSize": 216.25685119628906,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "layoutVersion": 5,
+            "effects": [],
+            "interactions": [],
+            "complexStrokeProperties": {
+              "strokeType": "BASIC"
+            }
+          }
+        ],
+        "blendMode": "PASS_THROUGH",
+        "clipsContent": true,
+        "background": [
+          {
+            "blendMode": "NORMAL",
+            "type": "GRADIENT_LINEAR",
+            "gradientHandlePositions": [
+              {
+                "x": 0.5000001075257023,
+                "y": -0.8926261238855232
+              },
+              {
+                "x": 0.5000001075257023,
+                "y": 0.9113558109362669
+              },
+              {
+                "x": -0.4019908598851927,
+                "y": -0.8926261238855229
+              }
+            ],
+            "gradientStops": [
+              {
+                "color": {
+                  "r": 0.06608699262142181,
+                  "g": 0.027959872037172318,
+                  "b": 0.0,
+                  "a": 1.0
+                },
+                "position": 0.0
+              },
+              {
+                "color": {
+                  "r": 0.3960784375667572,
+                  "g": 0.2235294133424759,
+                  "b": 0.09019608050584793,
+                  "a": 1.0
+                },
+                "position": 1.0
+              }
+            ]
+          }
+        ],
+        "fills": [
+          {
+            "blendMode": "NORMAL",
+            "type": "GRADIENT_LINEAR",
+            "gradientHandlePositions": [
+              {
+                "x": 0.5000001075257023,
+                "y": -0.8926261238855232
+              },
+              {
+                "x": 0.5000001075257023,
+                "y": 0.9113558109362669
+              },
+              {
+                "x": -0.4019908598851927,
+                "y": -0.8926261238855229
+              }
+            ],
+            "gradientStops": [
+              {
+                "color": {
+                  "r": 0.06608699262142181,
+                  "g": 0.027959872037172318,
+                  "b": 0.0,
+                  "a": 1.0
+                },
+                "position": 0.0
+              },
+              {
+                "color": {
+                  "r": 0.3960784375667572,
+                  "g": 0.2235294133424759,
+                  "b": 0.09019608050584793,
+                  "a": 1.0
+                },
+                "position": 1.0
+              }
+            ]
+          }
+        ],
+        "strokes": [],
+        "strokeWeight": 1.0,
+        "strokeAlign": "INSIDE",
+        "backgroundColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "absoluteBoundingBox": {
+          "x": 0.0,
+          "y": 2375.0,
+          "width": 1280.0,
+          "height": 843.0
+        },
+        "absoluteRenderBounds": {
+          "x": 0.0,
+          "y": 2375.0,
+          "width": 1280.0,
+          "height": 843.0
+        },
+        "constraints": {
+          "vertical": "TOP",
+          "horizontal": "LEFT"
+        },
+        "effects": [
+          {
+            "type": "NOISE",
+            "visible": false,
+            "noiseType": "MONOTONE",
+            "blendMode": "NORMAL",
+            "noiseSize": 0.5,
+            "color": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 0.27000001072883606
+            },
+            "density": 1.0
+          }
+        ],
+        "interactions": [],
+        "complexStrokeProperties": {
+          "strokeType": "BASIC"
+        }
+      },
+      "components": {},
+      "componentSets": {},
+      "schemaVersion": 0,
+      "styles": {}
+    },
+    "69:1435": {
+      "document": {
+        "id": "69:1435",
+        "name": "MacBook Air - 13",
+        "type": "FRAME",
+        "scrollBehavior": "SCROLLS",
+        "children": [
+          {
+            "id": "69:1436",
+            "name": "A high-contrast African display serif",
+            "visible": false,
+            "type": "TEXT",
+            "scrollBehavior": "SCROLLS",
+            "blendMode": "PASS_THROUGH",
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 1.0,
+                  "g": 0.9378567934036255,
+                  "b": 0.6271409392356873,
+                  "a": 1.0
+                }
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1.0,
+            "strokeAlign": "OUTSIDE",
+            "absoluteBoundingBox": {
+              "x": 12045.0,
+              "y": 2397.0,
+              "width": 878.0,
+              "height": 59.0
+            },
+            "absoluteRenderBounds": null,
+            "constraints": {
+              "vertical": "TOP",
+              "horizontal": "CENTER"
+            },
+            "characters": "A high-contrast African display serif",
+            "characterStyleOverrides": [],
+            "styleOverrideTable": {},
+            "lineTypes": [
+              "NONE"
+            ],
+            "lineIndentations": [
+              0
+            ],
+            "style": {
+              "fontFamily": "OGARANYA",
+              "fontPostScriptName": "OGARANYA-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "textCase": "UPPER",
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 42.0,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0.0,
+              "lineHeightPx": 58.79999923706055,
+              "lineHeightPercent": 100.0,
+              "lineHeightUnit": "INTRINSIC_%"
+            },
+            "layoutVersion": 5,
+            "effects": [],
+            "interactions": [],
+            "complexStrokeProperties": {
+              "strokeType": "BASIC"
+            }
+          },
+          {
+            "id": "69:1449",
+            "name": "AFRICAN WEAPONS",
+            "type": "TEXT",
+            "scrollBehavior": "SCROLLS",
+            "blendMode": "PASS_THROUGH",
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 1.0,
+                  "g": 0.9378567934036255,
+                  "b": 0.6271409392356873,
+                  "a": 1.0
+                }
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1.0,
+            "strokeAlign": "OUTSIDE",
+            "absoluteBoundingBox": {
+              "x": 12435.0,
+              "y": 2115.0,
+              "width": 96.0,
+              "height": 22.0
+            },
+            "absoluteRenderBounds": {
+              "x": 12435.5322265625,
+              "y": 2122.889892578125,
+              "width": 94.2880859375,
+              "height": 7.210205078125
+            },
+            "constraints": {
+              "vertical": "TOP",
+              "horizontal": "CENTER"
+            },
+            "characters": "AFRICAN WEAPONS",
+            "characterStyleOverrides": [],
+            "styleOverrideTable": {},
+            "lineTypes": [
+              "NONE"
+            ],
+            "lineIndentations": [
+              0
+            ],
+            "style": {
+              "fontFamily": "OGARANYA",
+              "fontPostScriptName": "OGARANYA-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 10.0,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0.0,
+              "lineHeightPx": 21.625686645507812,
+              "lineHeightPercent": 154.46917724609375,
+              "lineHeightPercentFontSize": 216.25685119628906,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "layoutVersion": 5,
+            "effects": [],
+            "interactions": [],
+            "complexStrokeProperties": {
+              "strokeType": "BASIC"
+            }
+          },
+          {
+            "id": "69:1450",
+            "name": "OGARANYA",
+            "type": "TEXT",
+            "scrollBehavior": "SCROLLS",
+            "blendMode": "PASS_THROUGH",
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 1.0,
+                  "g": 0.9378567934036255,
+                  "b": 0.6271409392356873,
+                  "a": 1.0
+                }
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1.0,
+            "strokeAlign": "OUTSIDE",
+            "absoluteBoundingBox": {
+              "x": 12306.0,
+              "y": 2115.0,
+              "width": 58.0,
+              "height": 22.0
+            },
+            "absoluteRenderBounds": {
+              "x": 12306.564453125,
+              "y": 2122.889892578125,
+              "width": 57.025390625,
+              "height": 7.210205078125
+            },
+            "constraints": {
+              "vertical": "TOP",
+              "horizontal": "CENTER"
+            },
+            "characters": "OGARANYA",
+            "characterStyleOverrides": [],
+            "styleOverrideTable": {},
+            "lineTypes": [
+              "NONE"
+            ],
+            "lineIndentations": [
+              0
+            ],
+            "style": {
+              "fontFamily": "OGARANYA",
+              "fontPostScriptName": "OGARANYA-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 10.0,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0.0,
+              "lineHeightPx": 21.625686645507812,
+              "lineHeightPercent": 154.46917724609375,
+              "lineHeightPercentFontSize": 216.25685119628906,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "layoutVersion": 5,
+            "effects": [],
+            "interactions": [],
+            "complexStrokeProperties": {
+              "strokeType": "BASIC"
+            }
+          },
+          {
+            "id": "69:1451",
+            "name": "TYPE DESIGN",
+            "type": "TEXT",
+            "scrollBehavior": "SCROLLS",
+            "blendMode": "PASS_THROUGH",
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 1.0,
+                  "g": 0.9378567934036255,
+                  "b": 0.6271409392356873,
+                  "a": 1.0
+                }
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1.0,
+            "strokeAlign": "OUTSIDE",
+            "absoluteBoundingBox": {
+              "x": 12602.0,
+              "y": 2115.0,
+              "width": 64.0,
+              "height": 22.0
+            },
+            "absoluteRenderBounds": {
+              "x": 12603.169921875,
+              "y": 2122.89990234375,
+              "width": 61.662109375,
+              "height": 7.2001953125
+            },
+            "constraints": {
+              "vertical": "TOP",
+              "horizontal": "LEFT"
+            },
+            "characters": "TYPE DESIGN",
+            "characterStyleOverrides": [],
+            "styleOverrideTable": {},
+            "lineTypes": [
+              "NONE"
+            ],
+            "lineIndentations": [
+              0
+            ],
+            "style": {
+              "fontFamily": "OGARANYA",
+              "fontPostScriptName": "OGARANYA-Regular",
+              "fontStyle": "Regular",
+              "fontWeight": 400,
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 10.0,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0.0,
+              "lineHeightPx": 21.625686645507812,
+              "lineHeightPercent": 154.46917724609375,
+              "lineHeightPercentFontSize": 216.25685119628906,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "layoutVersion": 5,
+            "effects": [],
+            "interactions": [],
+            "complexStrokeProperties": {
+              "strokeType": "BASIC"
+            }
+          }
+        ],
+        "blendMode": "PASS_THROUGH",
+        "clipsContent": true,
+        "background": [
+          {
+            "blendMode": "NORMAL",
+            "type": "GRADIENT_LINEAR",
+            "gradientHandlePositions": [
+              {
+                "x": 0.5000001075257023,
+                "y": -0.8926261238855232
+              },
+              {
+                "x": 0.5000001075257023,
+                "y": 0.9113558109362669
+              },
+              {
+                "x": -0.4019908598851927,
+                "y": -0.8926261238855229
+              }
+            ],
+            "gradientStops": [
+              {
+                "color": {
+                  "r": 0.06608699262142181,
+                  "g": 0.027959872037172318,
+                  "b": 0.0,
+                  "a": 1.0
+                },
+                "position": 0.0
+              },
+              {
+                "color": {
+                  "r": 0.3960784375667572,
+                  "g": 0.2235294133424759,
+                  "b": 0.09019608050584793,
+                  "a": 1.0
+                },
+                "position": 1.0
+              }
+            ]
+          }
+        ],
+        "fills": [
+          {
+            "blendMode": "NORMAL",
+            "type": "GRADIENT_LINEAR",
+            "gradientHandlePositions": [
+              {
+                "x": 0.5000001075257023,
+                "y": -0.8926261238855232
+              },
+              {
+                "x": 0.5000001075257023,
+                "y": 0.9113558109362669
+              },
+              {
+                "x": -0.4019908598851927,
+                "y": -0.8926261238855229
+              }
+            ],
+            "gradientStops": [
+              {
+                "color": {
+                  "r": 0.06608699262142181,
+                  "g": 0.027959872037172318,
+                  "b": 0.0,
+                  "a": 1.0
+                },
+                "position": 0.0
+              },
+              {
+                "color": {
+                  "r": 0.3960784375667572,
+                  "g": 0.2235294133424759,
+                  "b": 0.09019608050584793,
+                  "a": 1.0
+                },
+                "position": 1.0
+              }
+            ]
+          }
+        ],
+        "strokes": [],
+        "strokeWeight": 1.0,
+        "strokeAlign": "INSIDE",
+        "backgroundColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "absoluteBoundingBox": {
+          "x": 12270.0,
+          "y": 2082.0,
+          "width": 430.0,
+          "height": 634.0
+        },
+        "absoluteRenderBounds": {
+          "x": 12270.0,
+          "y": 2082.0,
+          "width": 430.0,
+          "height": 634.0
+        },
+        "constraints": {
+          "vertical": "TOP",
+          "horizontal": "LEFT"
+        },
+        "effects": [
+          {
+            "type": "NOISE",
+            "visible": false,
+            "noiseType": "MONOTONE",
+            "blendMode": "NORMAL",
+            "noiseSize": 0.5,
+            "color": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 0.27000001072883606
+            },
+            "density": 1.0
+          }
+        ],
+        "interactions": [],
+        "complexStrokeProperties": {
+          "strokeType": "BASIC"
+        }
+      },
+      "components": {},
+      "componentSets": {},
+      "schemaVersion": 0,
+      "styles": {}
+    }
+  }
+}
